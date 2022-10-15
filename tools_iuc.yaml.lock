@@ -821,6 +821,7 @@ tools:
   owner: iuc
   revisions:
   - 2973994fecd6
+  - e8510e04a86a
   tool_panel_section_label: Variant Calling
 - name: vcfanno
   owner: iuc
@@ -950,6 +951,7 @@ tools:
   - 1c4402b9244d
   - 22f6a0e7424f
   - 5901bb391198
+  - 682d1e2c8be4
   - 84dcccebad3d
   - a95960a63220
   - b2aae698b9d3
@@ -969,6 +971,7 @@ tools:
   - 551f8c9bc4cf
   - 6a87478ed985
   - 72b5e9dda577
+  - 79e9a869f40e
   - a1b70f038b4a
   - a7228a7ea146
   - b35de691c42c
@@ -991,6 +994,7 @@ tools:
   - cc36773a3681
   - d50c1d5b72ce
   - e86fcef8ed91
+  - ec699520444c
   - edf6d4003fad
   tool_panel_section_label: Nanopore
 - name: medaka_variant_pipeline
@@ -1944,6 +1948,7 @@ tools:
   owner: lparsons
   revisions:
   - 02c5a84971c8
+  - 135b80fb1ac2
   - 288f97432497
   - 44e2cc14f75b
   - 48f587c13075
@@ -4392,6 +4397,7 @@ tools:
   owner: iuc
   revisions:
   - a04e64efa43a
+  - b3c3217c0cbc
   - d110a4141898
   tool_panel_section_label: Assembly
 - name: ncbi_blast_plus
@@ -7941,6 +7947,7 @@ tools:
   - b6abccb1f25b
   - b7e297c2ede6
   - ca0d8cf80567
+  - ca337cce3888
   - debfccc4d65b
   - fe3e8506112c
   tool_panel_section_label: Phylogenetics
@@ -8784,6 +8791,7 @@ tools:
   - 4626a83601d4
   - 639d2031d998
   - 76733d05d8ef
+  - 8815bc7e9cef
   - 9c53c7da9cbe
   tool_panel_section_label: Imaging
 - name: idr_download_by_ids
