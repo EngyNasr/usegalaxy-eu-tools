@@ -1183,6 +1183,7 @@ tools:
   - 3fe0d1df3950
   - 7bf891a13ace
   - b1ca81ce88f9
+  - f11d2dd29b2b
   tool_panel_section_label: Metagenomic Analysis
 - name: graphembed
   owner: iuc
@@ -1423,6 +1424,7 @@ tools:
   owner: iuc
   revisions:
   - 08780101bc36
+  - 21beb30956c2
   - 33b8c5eedc04
   - f5fa293605ca
   tool_panel_section_label: Graph/Display Data
@@ -3054,6 +3056,7 @@ tools:
   - 88c240872a65
   - 9e3e80cc4ad4
   - c4eac0c7e542
+  - d10bdad2fd17
   - e9c1cdb9f9dc
   tool_panel_section_label: Assembly
 - name: pilon

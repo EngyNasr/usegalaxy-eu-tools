@@ -682,6 +682,7 @@ tools:
   - aa39b19ca11e
   - cd06929b224b
   - d865b62f501c
+  - e100a765370e
   tool_panel_section_label: Assembly
 - name: flye
   owner: bgruening
@@ -723,6 +724,7 @@ tools:
   - 76251d1ccdcc
   - 9bf25dbe00ad
   - afec8c595124
+  - e94dc7945639
   tool_panel_section_label: Statistics
 - name: replace_column_by_key_value_file
   owner: bgruening
