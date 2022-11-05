@@ -16,12 +16,14 @@ tools:
 - name: seqkit_fx2tab
   owner: iuc
   revisions:
+  - 4cf00d20acab
   - c1aa9a90b4c4
   tool_panel_section_label: FASTA/FASTQ
 - name: seqkit_stats
   owner: iuc
   revisions:
   - 191738d53912
+  - d85bac8b166a
   tool_panel_section_label: FASTA/FASTQ
 - name: checkm_taxonomy_wf
   owner: iuc
@@ -190,6 +192,7 @@ tools:
 - name: magicblast
   owner: iuc
   revisions:
+  - 34ac212ef95e
   - aea6702a3cd5
   - e6799e98c5fb
   tool_panel_section_label: NCBI Blast
@@ -1349,6 +1352,7 @@ tools:
   - 06ed31cf52ed
   - 321bdd834266
   - 4c139a9415d7
+  - 56242ff81c84
   - 7319f83ae734
   - 764f076e9d52
   - 7a5cd7987b03
@@ -1942,10 +1946,12 @@ tools:
   owner: iuc
   revisions:
   - 191738d53912
+  - d85bac8b166a
   tool_panel_section_label: FASTA/FASTQ
 - name: seqkit_fx2tab
   owner: iuc
   revisions:
+  - 4cf00d20acab
   - c1aa9a90b4c4
   tool_panel_section_label: FASTA/FASTQ
 - name: cutadapt
@@ -3167,6 +3173,7 @@ tools:
   owner: devteam
   revisions:
   - 017aba02828d
+  - 03e9b2fbc005
   - 09b2cdb7ace5
   - 17062a0decb7
   - 749c918495f7
@@ -3187,6 +3194,7 @@ tools:
   - 5ec75f5dae3c
   - 7ed2edc1337f
   - 850f3679b9b4
+  - 980d2a2e1180
   - b9e04854e2bb
   - bc685d13b637
   - c772497b2c32
@@ -3202,6 +3210,7 @@ tools:
   - 3a1253ee137b
   - 58b278def57e
   - 61cb2042581a
+  - 79b885ce78d7
   - a6fba3d92531
   - c23da6257d6a
   - e403d27e8f24
@@ -3585,6 +3594,7 @@ tools:
   - 333a6e13b622
   - 62d212192002
   - 6e45b443ef1f
+  - 914cfcba0ec8
   - cef79931dda5
   - dd4df992d93d
   - eba36e001f45
@@ -3697,6 +3707,7 @@ tools:
   revisions:
   - 2dfbcb88d16a
   - 313414e9abcf
+  - 8e96d712a2bd
   - bf4ee2810759
   tool_panel_section_label: RNA Analysis
 - name: genrich
@@ -6424,6 +6435,7 @@ tools:
   owner: iuc
   revisions:
   - 067592b6b312
+  - 21e491ad532a
   - 58124285e462
   - 94fe43e75ddc
   - b2860df42e16
@@ -7995,6 +8007,7 @@ tools:
   - 14eb2acf30e3
   - 29ff6a849eac
   - 73a469f7dc96
+  - ea30d3089354
   tool_panel_section_label: Phylogenetics
 - name: phyml
   owner: iuc
@@ -9354,6 +9367,7 @@ tools:
   owner: iuc
   revisions:
   - 09b7b0b2e2c2
+  - 824497684a1f
   - fe733f05c2f8
   tool_panel_section_label: Metagenomic Analysis
 - name: b2btools_single_sequence
