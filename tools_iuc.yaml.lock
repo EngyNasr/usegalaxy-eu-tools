@@ -113,6 +113,7 @@ tools:
   revisions:
   - 2d4e3aff9dc7
   - 68ff8cd874db
+  - 765e685641ce
   - cf18a5993aa2
   tool_panel_section_label: RNA Analysis
 - name: arriba_get_filters
@@ -121,6 +122,7 @@ tools:
   - 125d20cb23d7
   - 1fe9d667447c
   - 47311adce34e
+  - acbda5dc6955
   tool_panel_section_label: RNA Analysis
 - name: arriba
   owner: iuc
@@ -128,6 +130,7 @@ tools:
   - 4f1efcc055d5
   - a24ca22b906e
   - add230dddd52
+  - f6b8b38636a4
   tool_panel_section_label: RNA Analysis
 - name: binning_refiner
   owner: iuc
@@ -305,6 +308,7 @@ tools:
   revisions:
   - 0cd163d805e3
   - 2e1cf7d85dbc
+  - 74810db257cc
   - 98cafcbd2578
   - c55643c3d813
   - c762a1cd357e
@@ -1203,6 +1207,7 @@ tools:
   revisions:
   - 1162bfd9f782
   - 8bbe09a52904
+  - 9564758e8638
   - caf213d51d6c
   - e82175804eb1
   tool_panel_section_label: Get Data
@@ -1212,6 +1217,7 @@ tools:
   - 0622d99c2619
   - 18eed8fa7f23
   - 1a7773882d2c
+  - 1e188c9610c3
   - 37c98f8a2497
   - 6c829a430475
   - a3395b1d871b
@@ -1376,6 +1382,7 @@ tools:
   revisions:
   - 095162ba8e90
   - 17a77824c8e4
+  - 55daa4712413
   - 67af24676bd6
   - 75427ceb32d1
   - b36afbb04e1c
@@ -1455,6 +1462,7 @@ tools:
   - 7e616a1bdb07
   - 7f2ef7216cf8
   - 90928b255abb
+  - b1268b7544d3
   - bb6ec8e5387f
   - c21099566418
   - fcb6a19960c6
@@ -1478,6 +1486,7 @@ tools:
 - name: ggplot2_heatmap
   owner: iuc
   revisions:
+  - 10515715c940
   - 391a4cc45fea
   - 3d059e9c2fba
   - a4d83ba2a1bc
@@ -1490,6 +1499,7 @@ tools:
 - name: ggplot2_violin
   owner: iuc
   revisions:
+  - 0e7290688b50
   - 3a270cee1239
   - 43778344b955
   - 637cf21db396
@@ -1517,6 +1527,7 @@ tools:
   - 1bff6682e780
   - 299307abd804
   - 46f91106439b
+  - 5fe1dc76176e
   - 87908c76ca8d
   - 9a482995958c
   - 9cec81e1b90e
@@ -1536,6 +1547,7 @@ tools:
   - 536078949ae4
   - 63a595b451d1
   - 9d060114554c
+  - b0d96516e6a5
   - d3d92fb20389
   - f52035800250
   - fb50ab943396
@@ -3432,6 +3444,7 @@ tools:
   - cc05793bb896
   - e3d32471da11
   - e7e885f718fb
+  - ebab418107f5
   tool_panel_section_label: RNA Analysis
 - name: alevin
   owner: bgruening
@@ -3446,6 +3459,7 @@ tools:
   - e53f19161c59
   - e572598580c2
   - ecb9ea6269ee
+  - f2000bc73102
   tool_panel_section_label: Single-cell
 - name: salmonquantmerge
   owner: bgruening
@@ -3456,6 +3470,7 @@ tools:
   - 88c07fc4024c
   - 992c077f6e41
   - cfb0849582e1
+  - ee72e302b6a3
   - f6e3a10a88e5
   tool_panel_section_label: RNA Analysis
 - name: featurecounts
@@ -5754,6 +5769,7 @@ tools:
   - 5e33b465d8d5
   - 75c93c70d094
   - 9a913cdee30e
+  - abfd8a6544d7
   - b2f1f75d49c4
   - bf675f34b056
   - c19b16e5729c
@@ -9191,6 +9207,7 @@ tools:
   owner: iuc
   revisions:
   - 0db4f153d86d
+  - 0df47f8552f6
   - 7776cb18fdf8
 - name: data_manager_humann_database_downloader
   owner: iuc
