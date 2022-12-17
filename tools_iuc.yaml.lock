@@ -2552,6 +2552,7 @@ tools:
   - 8cc3862f8b8e
   - 96cacb31d571
   - a7f16f24e9a1
+  - faee8629b460
   tool_panel_section_label: Assembly
 - name: yahs
   owner: iuc
