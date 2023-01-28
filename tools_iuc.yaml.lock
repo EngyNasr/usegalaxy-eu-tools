@@ -316,27 +316,32 @@ tools:
 - name: funannotate_clean
   owner: iuc
   revisions:
+  - 73428a792541
   - a230ea445788
   tool_panel_section_label: Annotation
 - name: funannotate_sort
   owner: iuc
   revisions:
   - b3cf4684e9c7
+  - d3af38b9c7e1
   tool_panel_section_label: Annotation
 - name: funannotate_predict
   owner: iuc
   revisions:
   - 2bba2ff070d9
+  - 7abc5f6dd595
   tool_panel_section_label: Annotation
 - name: funannotate_compare
   owner: iuc
   revisions:
+  - 494f0bb4a993
   - 563a19373357
   tool_panel_section_label: Annotation
 - name: funannotate_annotate
   owner: iuc
   revisions:
   - 14f588312c56
+  - 9f2455341fac
   tool_panel_section_label: Annotation
 - name: repeatmodeler
   owner: csbl
@@ -1116,6 +1121,7 @@ tools:
   owner: iuc
   revisions:
   - 553b27c30eb8
+  - f75bf16ac901
   tool_panel_section_label: Variant Calling
 - name: slamdunk
   owner: iuc
@@ -1474,6 +1480,7 @@ tools:
   owner: iuc
   revisions:
   - 0ea86f6bf2a1
+  - 14e7c35f3d00
   - 2074627b0f83
   - 2824d77cd8f8
   - 326a3db8d9d1
@@ -1529,6 +1536,7 @@ tools:
   - 1acf88921176
   - 1bff6682e780
   - 299307abd804
+  - 3b12bf9b4b87
   - 46f91106439b
   - 5fe1dc76176e
   - 87908c76ca8d
@@ -1653,6 +1661,7 @@ tools:
   - 7068f48d0ef9
   - 751a694ec620
   - 83c7d564b128
+  - 9a776b080193
   - aad3885b3216
   - b723c120161a
   - c441583adae5
@@ -2993,6 +3002,7 @@ tools:
   owner: bgruening
   revisions:
   - 045c7c3d8e59
+  - 2061fb3b81b4
   - 366a11d316a7
   - 3f7be05a1597
   - 5bec28269d95
@@ -3359,12 +3369,14 @@ tools:
 - name: coverm_contig
   owner: iuc
   revisions:
+  - 688a777e1b19
   - 6941d0d453ba
   tool_panel_section_label: Metagenomic Analysis
 - name: coverm_genome
   owner: iuc
   revisions:
   - 134e4e78e754
+  - a671907f96fe
   tool_panel_section_label: Metagenomic Analysis
 - name: migmap
   owner: iuc
@@ -4049,6 +4061,7 @@ tools:
   - 037a11682176
   - 19793eecc9f0
   - 200c378d85f3
+  - 2c68b0c38785
   - 37213cf56392
   - 4272bd430a01
   - 45083d070fb8
