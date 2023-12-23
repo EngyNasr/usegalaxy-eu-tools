@@ -1767,6 +1767,7 @@ tools:
   owner: iuc
   revisions:
   - 02b21260faf4
+  - 0a10fddd97d2
   - 44c66e8d21e6
   - 7a5eaa19e92f
   - 7c9417381ad5
@@ -1920,6 +1921,7 @@ tools:
 - name: maxbin2
   owner: mbernt
   revisions:
+  - 28a0b1446d2b
   - 2bc40bfbcfb4
   - 4ef88f9a195d
   - 6a638de7915c
@@ -2195,6 +2197,7 @@ tools:
   - 4e5056fefd88
   - 5915ea1ec9b1
   - 8c0175e03cee
+  - 9845c649f41b
   - c053d4cad713
   - c5e2e5902201
   - de6cebe3c043
@@ -2743,6 +2746,7 @@ tools:
   revisions:
   - 02831bf9e95f
   - 2b16ba799da9
+  - 511e5e3cd55e
   - 7c2e9bc2123b
   - 8fef980d48b5
   - bbe19ef04a74
@@ -2773,6 +2777,7 @@ tools:
 - name: smudgeplot
   owner: galaxy-australia
   revisions:
+  - 015283de3004
   - 24e471d13fe9
   - 5a0ddb4dc3a4
   - 5e0825476fb7
@@ -3336,6 +3341,7 @@ tools:
   - 2db911a4efc5
   - 6e26c9afd301
   - 88c240872a65
+  - 8f9f06995f98
   - 9e3e80cc4ad4
   - c4eac0c7e542
   - d10bdad2fd17
@@ -4772,6 +4778,7 @@ tools:
   owner: iuc
   revisions:
   - 9002633b4737
+  - e4b4837f06f5
   - ed1518ce2237
 - name: kraken_taxonomy_report
   owner: iuc
@@ -9386,6 +9393,7 @@ tools:
   owner: iuc
   revisions:
   - 07a85bc414ba
+  - 10ae027ab022
   - 117a042eb1b8
   - 4626a83601d4
   - 4c51f0bac726
@@ -9959,6 +9967,7 @@ tools:
 - name: data_manager_metaphlan_database_downloader
   owner: iuc
   revisions:
+  - 0cb27ea69dc1
   - 4ba60cb14cb0
   - 5fe20c915fa6
   - 9c43baa60906
