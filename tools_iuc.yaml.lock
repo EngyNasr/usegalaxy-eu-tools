@@ -800,6 +800,7 @@ tools:
   owner: iuc
   revisions:
   - 33c060ec0ac9
+  - 8e66f695d859
   - 96f74538896e
   - e989670c7fc7
   - f89e3c318453
@@ -2788,6 +2789,7 @@ tools:
   revisions:
   - 11658afb8c87
   - b4038a4d48f5
+  - dcd30574a456
   tool_panel_section_label: Metagenomic Analysis
 - name: khmer_filter_abundance
   owner: iuc
