@@ -150,15 +150,18 @@ tools:
   owner: iuc
   revisions:
   - 46a99bd1f10e
+  - b85ba18a8f36
   tool_panel_section_label: Metagenomic Analysis
 - name: phyloseq_plot_ordination
   owner: iuc
   revisions:
   - 11d43fa12aab
+  - 92e77800ef2c
   tool_panel_section_label: Metagenomic Analysis
 - name: phyloseq_plot_richness
   owner: iuc
   revisions:
+  - 1ff178d1757e
   - 92b82deaaed1
   tool_panel_section_label: Metagenomic Analysis
 - name: concoct
@@ -1856,6 +1859,7 @@ tools:
   - 961a712f9743
   - b2b8e75a962d
   - ba71e26d5bdc
+  - dba114391c98
   - f9cb3a4339c2
   tool_panel_section_label: Evolution
 - name: rapidnj
@@ -3431,6 +3435,7 @@ tools:
 - name: bbtools_bbmap
   owner: iuc
   revisions:
+  - 3171f7f52576
   - 517464809c33
   - 6d44c9f1a42b
   - 81cbb6a4c1ca
@@ -3702,6 +3707,7 @@ tools:
   owner: iuc
   revisions:
   - 0921444c832d
+  - 119b069fc845
   - 32511f586472
   - 41573afd6871
   - 58c35179ebf0
@@ -4134,6 +4140,7 @@ tools:
   owner: iuc
   revisions:
   - 8eace8923202
+  - adec76ebc868
   - b955346ef41e
   - d1912018a603
   - ee407fae3ccd
@@ -4291,6 +4298,7 @@ tools:
   - 79e259afea34
   - 80323066acd4
   - af3c1dc1d141
+  - b815ec682418
   - e95d52d295d7
   tool_panel_section_label: Annotation
 - name: optitype
@@ -4364,6 +4372,7 @@ tools:
   revisions:
   - 239ce9f24386
   - 6f743c615c41
+  - b982a9ea939c
   tool_panel_section_label: Annotation
 - name: tbprofiler
   owner: iuc
@@ -4778,6 +4787,7 @@ tools:
   owner: iuc
   revisions:
   - 0968856c687c
+  - 20e2f64aa1fe
   - 328c607150ff
   - 4a9da2b6c2e3
   - d4bb87ca916d
@@ -4822,6 +4832,7 @@ tools:
 - name: bbtools_bbduk
   owner: iuc
   revisions:
+  - 0840ba83860c
   - 159b04e36791
   - 204a131e47db
   - 425dab0e057b
@@ -6132,6 +6143,7 @@ tools:
 - name: bbtools_bbduk
   owner: iuc
   revisions:
+  - 0840ba83860c
   - 159b04e36791
   - 204a131e47db
   - 425dab0e057b
@@ -8462,6 +8474,7 @@ tools:
 - name: biom_convert
   owner: iuc
   revisions:
+  - 091bb5922a82
   - 1b5fc03380d4
   - 33c99804a32f
   - 54ccb7e1f49a
@@ -9900,6 +9913,7 @@ tools:
   - 89d299153577
   - 8d3aff8ba8ad
   - a252d8415583
+  - c1a33f603da2
   - d77a9c2a242d
   - ecb38e2798cd
   - ece21607a21d
@@ -10001,6 +10015,7 @@ tools:
   revisions:
   - 41c7e03b3eab
   - d2590ecc4189
+  - e13b801516dd
   - ec82fac4eb4b
   tool_panel_section_label: Annotation
 - name: hamronize_summarize
@@ -10010,6 +10025,7 @@ tools:
   - 6e2731b13533
   - a84e3131ae6a
   - ef76d74a7171
+  - f8bcc852f6b3
   tool_panel_section_label: Annotation
 - name: orthofinder_onlygroups
   owner: iuc
