@@ -971,6 +971,7 @@ tools:
 - name: vcfanno
   owner: iuc
   revisions:
+  - 4f3c5e634679
   - cdcaa40e5e45
   - fb20fa735dfe
   tool_panel_section_label: Variant Calling
@@ -1707,6 +1708,7 @@ tools:
 - name: ggplot2_heatmap2
   owner: iuc
   revisions:
+  - 374e9062d874
   - 4955e9bb96d1
   - 53460afd5115
   - '566197475670'
@@ -2081,6 +2083,7 @@ tools:
   revisions:
   - 0a4ad829d87a
   - 27202050e185
+  - 27673f5b5343
   - 359e043a285c
   - 405ed9ad53ab
   - a68cb16fa1a0
@@ -3288,6 +3291,7 @@ tools:
 - name: abyss
   owner: iuc
   revisions:
+  - 0124fce4654a
   - 0e93176640ac
   - 2b89471cca20
   - 3ce74eab308b
@@ -3457,6 +3461,7 @@ tools:
   owner: iuc
   revisions:
   - 09dbbf5d3201
+  - 8a7462c0ac14
   - a07a2d9ddd42
   - a287431cdf4f
   - c239e93d9f04
@@ -3482,6 +3487,7 @@ tools:
   - 017aba02828d
   - 03e9b2fbc005
   - 09b2cdb7ace5
+  - 0d4acadabb04
   - 17062a0decb7
   - 749c918495f7
   - a54de7e658f7
@@ -3643,6 +3649,7 @@ tools:
   owner: iuc
   revisions:
   - 1dcea261abbe
+  - 28d740f2c0b0
   - 688a777e1b19
   - 6941d0d453ba
   - b9c38856e540
@@ -3655,6 +3662,7 @@ tools:
   - 0ff4b0e5a3bc
   - 134e4e78e754
   - 5bf5792b0996
+  - 73b667038f46
   - 847f274a60da
   - a671907f96fe
   - bb3f59096c8e
@@ -4554,6 +4562,7 @@ tools:
   - 3bb58751f4ee
   - b774ae8e1609
   - d753d9169482
+  - df7a52791be9
   tool_panel_section_label: Annotation
 - name: hmmer_hmmemit
   owner: iuc
@@ -4561,12 +4570,14 @@ tools:
   - 9415f29a3926
   - 96b127c59e6a
   - a6f41287ef2b
+  - be03abdc6451
   - e9d622609fb5
   tool_panel_section_label: Annotation
 - name: hmmer_hmmalign
   owner: iuc
   revisions:
   - 24fa8e890f08
+  - 71863d3bf721
   - 9319e9ed248b
   - b2453ee52845
   - d430c68061f7
@@ -4578,6 +4589,7 @@ tools:
   - 2d406da5d34e
   - e07176c0925d
   - e7d281a290a6
+  - fb1305d0d1c6
   tool_panel_section_label: Annotation
 - name: hmmer_jackhmmer
   owner: iuc
@@ -4585,11 +4597,13 @@ tools:
   - 5113c71c7031
   - 5cbef50c0c63
   - 6e27bb3f0fa6
+  - 9fdeca68a6b5
   - d9ce554da9b4
   tool_panel_section_label: Annotation
 - name: hmmer_phmmer
   owner: iuc
   revisions:
+  - 37bcc9fb0bb1
   - 8267b6ad0b45
   - 8a791afd99fb
   - 92ff5dcded40
@@ -4599,6 +4613,7 @@ tools:
   owner: iuc
   revisions:
   - 347a1f935f4c
+  - 4a54e4c9188b
   - be072920a53e
   - be7097d6e3ff
   - d92dd2f040cd
@@ -4608,6 +4623,7 @@ tools:
   revisions:
   - 01c842e297f5
   - 1fca13688921
+  - 34b09461bf87
   - a28fd001de59
   - fb459c8fb2ba
   tool_panel_section_label: Annotation
@@ -4618,18 +4634,21 @@ tools:
   - 80c713789d13
   - 92227c141aa5
   - b4dc65565864
+  - e3e5f208e93c
   tool_panel_section_label: Annotation
 - name: hmmer_hmmconvert
   owner: iuc
   revisions:
   - 649b289b4ccc
   - 8d5ec58d2172
+  - a9dace1a1e36
   - d20066f6566e
   - db8a5a3195e7
   tool_panel_section_label: Annotation
 - name: hmmer_hmmbuild
   owner: iuc
   revisions:
+  - 4b996c837ec8
   - 6846f8789e33
   - 750269125dc9
   - 923db0592cd0
@@ -4640,6 +4659,7 @@ tools:
   revisions:
   - 2ec5e1ad1da7
   - 314b778b8ffa
+  - 54b92ae4f75b
   - b28e8ed99424
   - b4fe2f703b4b
   tool_panel_section_label: Annotation
@@ -7051,6 +7071,7 @@ tools:
   - 44018dd6b447
   - 4f2967b27e67
   - 9ab35a2245ce
+  - a79ee60b6926
   - b467a89be0c6
   - b5d8e5475247
   - cd2480f35935
@@ -10129,6 +10150,7 @@ tools:
 - name: das_tool
   owner: iuc
   revisions:
+  - 7d997332582e
   - a8e434ebe961
   - bdc1f3694a23
   - e23e7bf8491b
@@ -10140,12 +10162,14 @@ tools:
   - 5033d753964b
   - 67ec0d65f925
   - c9b07cfc911c
+  - ce6c26db9701
   tool_panel_section_label: Metagenomic Analysis
 - name: recentrifuge
   owner: iuc
   revisions:
   - 09b7b0b2e2c2
   - 12f0968f171c
+  - 76bf12b928f4
   - 824497684a1f
   - b5407cc2bf51
   - fe733f05c2f8
