@@ -150,6 +150,7 @@ tools:
   owner: iuc
   revisions:
   - 46a99bd1f10e
+  - 87064cb77a52
   - b85ba18a8f36
   tool_panel_section_label: Metagenomic Analysis
 - name: phyloseq_plot_ordination
@@ -157,12 +158,14 @@ tools:
   revisions:
   - 11d43fa12aab
   - 92e77800ef2c
+  - dfe800a3faaf
   tool_panel_section_label: Metagenomic Analysis
 - name: phyloseq_plot_richness
   owner: iuc
   revisions:
   - 1ff178d1757e
   - 92b82deaaed1
+  - fb7c4bbe8994
   tool_panel_section_label: Metagenomic Analysis
 - name: concoct
   owner: iuc
@@ -255,6 +258,7 @@ tools:
   owner: iuc
   revisions:
   - c629e6de3c49
+  - ef2cace85809
   tool_panel_section_label: Metagenomic Analysis
 - name: instrain_profile
   owner: iuc
@@ -323,6 +327,7 @@ tools:
   owner: iuc
   revisions:
   - 42a1a5750539
+  - 77d50ec2bcf2
   tool_panel_section_label: Metagenomic Analysis
 - name: te_finder
   owner: iuc
@@ -425,6 +430,7 @@ tools:
 - name: legsta
   owner: iuc
   revisions:
+  - 0411fca1d681
   - 579f1cabfe79
   - b469f6d53d06
   tool_panel_section_label: Annotation
@@ -448,6 +454,7 @@ tools:
   revisions:
   - 3a2f2e24c37e
   - dc1500f42073
+  - fae03f3d4bf7
   tool_panel_section_label: Nanopore
 - name: flair_collapse
   owner: iuc
@@ -1294,6 +1301,7 @@ tools:
 - name: plasflow
   owner: iuc
   revisions:
+  - 1d2a91ab28b7
   - bda6012394f7
   - ea270d0ad0e6
   tool_panel_section_label: Metagenomic Analysis
@@ -1592,12 +1600,14 @@ tools:
   owner: iuc
   revisions:
   - 6847a625db4d
+  - 74d7b06c2b92
   - ad011fc670d6
   tool_panel_section_label: Nanopore
 - name: nanopolishcomp_freqmethcalculate
   owner: iuc
   revisions:
   - 80b6e23cb70d
+  - f08dfdcefdbd
   tool_panel_section_label: Nanopore
 - name: nanocompore_db
   owner: iuc
@@ -1620,6 +1630,7 @@ tools:
   owner: iuc
   revisions:
   - 6847a625db4d
+  - 74d7b06c2b92
   - ad011fc670d6
   tool_panel_section_label: Nanopore
 - name: nanoplot
@@ -1670,6 +1681,7 @@ tools:
   - 2824d77cd8f8
   - 326a3db8d9d1
   - 360df4999907
+  - 36b848d5f3ec
   - 4ac4e7083b7e
   - 59fd173ac850
   - 5cec5fb749f0
@@ -1844,6 +1856,7 @@ tools:
   owner: iuc
   revisions:
   - 1790dcf3c32d
+  - 1ec814014652
   - 26b7446bb17e
   - 494b2ec08162
   - 4df8de2d0e48
@@ -2686,6 +2699,7 @@ tools:
   owner: iuc
   revisions:
   - 7346619ad005
+  - a227c05e0a55
   tool_panel_section_label: Genome editing
 - name: amplican
   owner: iuc
@@ -2696,6 +2710,7 @@ tools:
 - name: vegan_diversity
   owner: iuc
   revisions:
+  - a1b80a746054
   - a2c047a2c380
   - c58e19ff504a
   - db56c8e79b1e
@@ -2703,6 +2718,7 @@ tools:
 - name: vegan_fisher_alpha
   owner: iuc
   revisions:
+  - 0148e5cf20b2
   - a5a453f92273
   - d6b92ca3a9a1
   - f9966e11885b
@@ -2711,6 +2727,7 @@ tools:
   owner: iuc
   revisions:
   - 3d1d965b6423
+  - af1211ed6c8e
   - b0d5976540e3
   - dd2705a31239
   tool_panel_section_label: Metagenomic Analysis
@@ -4314,6 +4331,7 @@ tools:
   revisions:
   - 23494763e39e
   - 24adf43898ec
+  - 95c71179a054
   tool_panel_section_label: Annotation
 - name: mitos2
   owner: iuc
@@ -4416,6 +4434,7 @@ tools:
   - ba6f87115e13
   - c2656b729ee9
   - c6f7442355e9
+  - d03af1c7002c
   - e1a9d6fd258d
   tool_panel_section_label: Annotation
 - name: tbvcfreport
@@ -4552,6 +4571,7 @@ tools:
   - 012171ba9fce
   - 1a1ec22a7e28
   - 1d8ad7599f02
+  - 42b38f6d9f68
   - 9a90656a1af9
   tool_panel_section_label: Annotation
 - name: hmmer3
@@ -4845,6 +4865,7 @@ tools:
   - 528a1d91b066
   - b11b3ac48bb9
   - b97694b21bc3
+  - bfae8da6082c
   tool_panel_section_label: Metagenomic Analysis
 - name: ragtag
   owner: iuc
@@ -4896,6 +4917,7 @@ tools:
   - 0f17a8816b28
   - 2fdac3e78553
   - 658d47fd33e3
+  - 766d5f63b0f4
   - 8ba2174315aa
   - aec58624706f
   - b2392a9dfb01
@@ -4904,6 +4926,7 @@ tools:
   owner: devteam
   revisions:
   - 1902d3de4a4f
+  - 1c677354ab18
   - 6c09bed3444f
   - 9ae975c30dde
   - a3a7440fc618
@@ -4923,6 +4946,7 @@ tools:
   revisions:
   - 3d6570bffdb1
   - 5bee9adae474
+  - 67236d921e83
   - cbb802a726fd
   - fe94f318048c
   tool_panel_section_label: Metagenomic Analysis
@@ -4930,6 +4954,7 @@ tools:
   owner: devteam
   revisions:
   - 77ca66b1f5e9
+  - 8cebdc74a48f
   - 9a5be5b1a5c9
   - 9bdcba262627
   - b9971bca4b01
@@ -5497,6 +5522,7 @@ tools:
   revisions:
   - 04866f817daa
   - 4d343c1f606b
+  - 970e6333f07e
   - befc9dad4ca8
   - c1a1bea37098
   - ddb22028b552
@@ -5525,6 +5551,7 @@ tools:
   - 108db6635177
   - 1dfd95ee241e
   - 4fe8a75334c8
+  - 993b19f20c76
   - bd735cae4ce6
   - cb20f99fd45b
   - d64c7e752f4d
@@ -5534,24 +5561,28 @@ tools:
   revisions:
   - 5325e44297b9
   - 75104ddce35f
+  - 75d5afa09972
   tool_panel_section_label: SAM/BAM
 - name: bamtools_split_ref
   owner: iuc
   revisions:
   - 09470ab960f1
   - 9b520009db81
+  - 9b8feb118f9e
   tool_panel_section_label: SAM/BAM
 - name: bamtools_split_mapped
   owner: iuc
   revisions:
   - 2ed961caae0a
   - 6dbef7ea2253
+  - fa7b5520ae53
   tool_panel_section_label: SAM/BAM
 - name: bamtools_split_tag
   owner: iuc
   revisions:
   - c9fbbe6f5fc8
   - e30af4e78cd3
+  - e9b9c489aacc
   tool_panel_section_label: SAM/BAM
 - name: sam_merge
   owner: devteam
@@ -6981,6 +7012,7 @@ tools:
   revisions:
   - 280386b252a5
   - 45210df786b9
+  - cef64c36c89e
   tool_panel_section_label: Metagenomic Analysis
 - name: ncbi_acc_download
   owner: iuc
@@ -7029,6 +7061,7 @@ tools:
   - 8b6d0d85252b
   - 8dee0218ac7d
   - a7b889b90140
+  - b799a615995d
   tool_panel_section_label: Assembly
 - name: gfa_to_fa
   owner: iuc
@@ -7095,6 +7128,7 @@ tools:
 - name: sonneityping
   owner: iuc
   revisions:
+  - 0ac12c344bfa
   - db4fe7172114
   tool_panel_section_label: Genome editing
 - name: mothur_create_database
@@ -8531,6 +8565,7 @@ tools:
   - 72ed72122deb
   - a4db66553a61
   - bd46669113b9
+  - d4d4e9febf5c
   - e177a8ea0bf1
   - e525f9ffb9ac
   tool_panel_section_label: Convert Formats
@@ -8550,6 +8585,7 @@ tools:
   - 128ba8da994f
   - 1e0234b87809
   - 3b75d5285aff
+  - 4f6349228462
   - 51f5e7505c4b
   - 56b1a13d9680
   - 64be7ff9b97b
@@ -8607,6 +8643,7 @@ tools:
   - 6f6a2cb188cf
   - 74d1e42a87e0
   - 9ad6e80ea21f
+  - aadc5d8099e2
   - b3ff7225da03
   - c318aef17dc0
   - d1dd7d1b07f6
@@ -9218,6 +9255,7 @@ tools:
   - 3e4e1cf73d98
   - 6acb08931836
   - 6f2d2c7f77ee
+  - 6f83f8fd381f
   - 766be978777a
   - 77b91b9bdf52
   - aaa5da8e73a9
@@ -9230,6 +9268,7 @@ tools:
   owner: iuc
   revisions:
   - 0a6de5e65992
+  - 277313130da5
   - 2d02d9702d3a
   - 3c86f71498bc
   - 5511647110ff
@@ -9248,6 +9287,7 @@ tools:
   revisions:
   - 08192eebb47d
   - 3081ff5c84a3
+  - 5c3ebe2adc77
   - 5d2e17328afe
   - 5e9171dc8244
   - 6bd82ed14acd
@@ -9267,6 +9307,7 @@ tools:
   - 51d945eab1e1
   - 5342ce58cd1e
   - 55f2212bb675
+  - 7b9fafe32c86
   - 8e0f141c8c66
   - 94c19fb1281c
   - a407e7f8bdc1
@@ -9283,6 +9324,7 @@ tools:
   - 397d2c97af05
   - 4bfb75bb7c8e
   - 6adf98e782f3
+  - 6f5349dd5c49
   - 7647e5cd1b8b
   - 8599fd07d140
   - 95777145cb92
@@ -9309,6 +9351,7 @@ tools:
   - a89ee42625ad
   - bf2017df9837
   - c2ef03559dc6
+  - d18e7a6e5cd4
   - f2f6c703da06
   tool_panel_section_label: Single-cell
 - name: intermine_galaxy_exchange
@@ -9538,6 +9581,7 @@ tools:
   revisions:
   - 1563b58905f4
   - 554aa2a63f04
+  - fa7086274673
   tool_panel_section_label: Virology
 - name: ivar_consensus
   owner: iuc
@@ -9546,6 +9590,7 @@ tools:
   - 17f911830a8c
   - 2d9926ce62be
   - 3e4f434a69c6
+  - 40737febe339
   - 5e668dc9f379
   - 731182d54f78
   - 78bbd17d0703
@@ -9581,6 +9626,7 @@ tools:
   - 8d36959b000d
   - 94df24c6bc00
   - 9eaadf03e0df
+  - a1c2aecd7a0d
   - bd2a7d1316b9
   - ee29337f905c
   - ee2beb764a7b
@@ -9597,6 +9643,7 @@ tools:
   - 47a27906d750
   - 4abcfbc2e5b6
   - 51afc8a64951
+  - 618297d23022
   - 72ddd32392cd
   - 7fe36019c073
   - 8f8df367470d
@@ -9614,6 +9661,7 @@ tools:
   - 397e5f0eb3ef
   - 5671e1d3d5ee
   - 5d6ed46cc101
+  - 86a20ae274fc
   - 8858fa037a15
   - 9f978da6528a
   - a2b94388d00d
@@ -9631,6 +9679,7 @@ tools:
   revisions:
   - 045d6d00f606
   - 12d66d0d05ac
+  - 194e3ceee923
   - 230b05597996
   - 252dfb042563
   - 3888bbe7a9ca
@@ -10060,6 +10109,7 @@ tools:
 - name: lorikeet_spoligotype
   owner: iuc
   revisions:
+  - da22667725c7
   - f9c37d0b3002
   tool_panel_section_label: Annotation
 - name: spotyping
