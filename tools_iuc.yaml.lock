@@ -18,6 +18,7 @@ tools:
   owner: iuc
   revisions:
   - 4cf00d20acab
+  - 7dd90df319f6
   - b1b12eaebfa9
   - c1aa9a90b4c4
   tool_panel_section_label: FASTA/FASTQ
@@ -27,6 +28,7 @@ tools:
   - 191738d53912
   - 54a954ee64d4
   - d85bac8b166a
+  - fe1ae2ebf63d
   tool_panel_section_label: FASTA/FASTQ
 - name: checkm_taxonomy_wf
   owner: iuc
@@ -451,6 +453,7 @@ tools:
   - a62c4a11a67d
   - d147d6455873
   - e1b3b37aa69f
+  - ea5e944f447d
   tool_panel_section_label: Send Data
 - name: pycoqc
   owner: iuc
@@ -2215,11 +2218,13 @@ tools:
   - 191738d53912
   - 54a954ee64d4
   - d85bac8b166a
+  - fe1ae2ebf63d
   tool_panel_section_label: FASTA/FASTQ
 - name: seqkit_fx2tab
   owner: iuc
   revisions:
   - 4cf00d20acab
+  - 7dd90df319f6
   - b1b12eaebfa9
   - c1aa9a90b4c4
   tool_panel_section_label: FASTA/FASTQ
@@ -8635,6 +8640,7 @@ tools:
   - 7bb8726be37c
   - 81804a978fc0
   - 83a69484cb87
+  - 8ad84c5753ea
   - 9d61d3fa046c
   - a2099fb98cdb
   - abf6dbe8c9d7
