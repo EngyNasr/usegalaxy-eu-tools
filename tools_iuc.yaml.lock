@@ -3501,6 +3501,7 @@ tools:
   - 3171f7f52576
   - 517464809c33
   - 6d44c9f1a42b
+  - 7f19559b8b55
   - 81cbb6a4c1ca
   - 858a65b52cf9
   - 9ed6579f52f3
@@ -4219,6 +4220,7 @@ tools:
   - adec76ebc868
   - b955346ef41e
   - d1912018a603
+  - df9743790176
   - ee407fae3ccd
   - f36a69c3729a
   tool_panel_section_label: Variant Calling
@@ -4367,6 +4369,7 @@ tools:
   revisions:
   - 23494763e39e
   - 24adf43898ec
+  - 2eb7932e91a3
   - 95c71179a054
   tool_panel_section_label: Annotation
 - name: mitos2
@@ -4935,6 +4938,7 @@ tools:
   - 204a131e47db
   - 425dab0e057b
   - a9c9d768b751
+  - bf0cb5dd02f2
   tool_panel_section_label: NCBI Blast
 - name: diamond
   owner: bgruening
@@ -6257,6 +6261,7 @@ tools:
   - 204a131e47db
   - 425dab0e057b
   - a9c9d768b751
+  - bf0cb5dd02f2
   tool_panel_section_label: FASTA/FASTQ
 - name: umi_tools_count
   owner: iuc
