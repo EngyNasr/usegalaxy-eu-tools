@@ -223,6 +223,7 @@ tools:
   revisions:
   - 2ad6350df85b
   - 90385ec28b34
+  - a80f92ec6f89
   - dd513c9f5230
   tool_panel_section_label: Imaging
 - name: points2labelimage
@@ -341,6 +342,7 @@ tools:
   - 236ec78b2e53
   - 7b6d9412c7f8
   - 8c25d4ff0b51
+  - f8b4eada923c
   tool_panel_section_label: Imaging
 - name: imagej2_binary_to_edm
   owner: imgteam
