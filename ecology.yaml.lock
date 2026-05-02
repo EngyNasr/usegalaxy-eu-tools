@@ -686,6 +686,7 @@ tools:
   - 04f34751dae3
   - 0f460421b212
   - 1fe020b2108f
+  - 6cf2a66c46f1
   - 7068b5fcd623
   - 7c2e71e4acf3
   - 86c5b627ddb6
@@ -860,6 +861,7 @@ tools:
 - name: sklearn_clf_metrics
   owner: bgruening
   revisions:
+  - 048d7bd59326
   - 0ee984c1cbd6
   - 15bcf1a7543b
   - 25cc25ea10b8
@@ -923,6 +925,7 @@ tools:
   - 2fc89dcd41c8
   - 3e4a7684d402
   - 40f4447733b2
+  - 57938c2f6ef5
   - 616a241c5b37
   - 913bf1c4c7bb
   - 927586a18553
@@ -1009,6 +1012,7 @@ tools:
   revisions:
   - 26ee5e11ecbe
   - 31c42a2c02d3
+  - 371299578b8e
   - 3d93dd18d9f8
   - 3dd49be3f7d3
   - 5e33b465d8d5

@@ -6,6 +6,7 @@ tools:
   owner: iuc
   revisions:
   - 1bb2ba6d3d96
+  - 31f58ec0459a
   - 3f3e247c053d
   - 4efdca267d51
   - 78c75f134c16
@@ -29,6 +30,7 @@ tools:
   revisions:
   - 1920244e2895
   - 2fa74a3f6670
+  - 573cfe217474
   - 7844dbe4f8e2
   tool_panel_section_label: Annotation
 - name: annotatemyids
@@ -1552,6 +1554,7 @@ tools:
   - 865119fcb694
   - ad80238462c1
   - d9f6a00b6db7
+  - eb04ae2c1f21
   - ee17a294d3a3
   - f698c7604b3b
   tool_panel_section_label: Assembly
@@ -3458,6 +3461,7 @@ tools:
   - d78faac2c6ef
   - d951c5b0edd1
   - da8260eba74b
+  - f0872b88c5fc
   tool_panel_section_label: Get Data
 - name: pysradb_search
   owner: iuc
@@ -5010,6 +5014,7 @@ tools:
   - 3ea43408e5db
   - 5e4e2b612a4f
   - 61db741e4614
+  - 69cce076e0cf
   - 6eae290d762b
   - 874b1a4fe7f0
   - b3c5560ffac6
@@ -5050,6 +5055,7 @@ tools:
   owner: iuc
   revisions:
   - 8e6d236aab1c
+  - cf9417375842
   - e92cdcc7dee5
   tool_panel_section_label: Metagenomic Analysis
 - name: ampvis2_frequency
@@ -5468,6 +5474,7 @@ tools:
   owner: iuc
   revisions:
   - 0f5f7fa9c08f
+  - 24313e0ff049
   - 304ac5b49dea
   - 66acaec9f386
   - dd6cab3012e1
@@ -10292,6 +10299,7 @@ tools:
   revisions:
   - d3ebbf39b1c5
   - de7795890bc5
+  - ead35c868b99
   tool_panel_section_label: RNA Analysis
 - name: isoformswitchanalyzer
   owner: iuc
@@ -11069,6 +11077,7 @@ tools:
   - 8c440c3002bc
   - a312a0fdaf31
   - a389f74c3630
+  - a50321bc1a90
   - b5527cc104ab
   - ce32171c6d44
   - d0a568e1904b
@@ -11221,6 +11230,7 @@ tools:
   revisions:
   - 2fe966f8532e
   - 32ea013ae290
+  - 4413217d872c
   - 5854d0da92b4
   - 5cd5d0947354
   - 69f93450c57d
@@ -13979,6 +13989,7 @@ tools:
   - 4877dfefaacc
   - 539b008cfe1c
   - 54871a78828e
+  - 8367be242f35
   - 8c533e19b697
   - 9002633b4737
   - 90b4d4f0a3a4

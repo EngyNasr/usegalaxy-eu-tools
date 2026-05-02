@@ -337,6 +337,7 @@ tools:
 - name: wordcloud
   owner: bgruening
   revisions:
+  - 45c4cc885ddb
   - 54c2d8ebf0cf
   - 57e3de4b3b0d
   - 6055ffae8903
@@ -475,6 +476,7 @@ tools:
   - 14bd6d59650d
   - 1588f9076e32
   - 177d0766e2fb
+  - 1d2a478bb514
   - 21730620a849
   - 222c02df5d55
   - 4a229a7ad638
@@ -753,6 +755,7 @@ tools:
   - 2fc89dcd41c8
   - 3e4a7684d402
   - 40f4447733b2
+  - 57938c2f6ef5
   - 616a241c5b37
   - 63417d0acc72
   - 67881a837f46
@@ -820,6 +823,7 @@ tools:
   - 8e447b95e6a8
   - 8f469d961e30
   - 9084156b2bb5
+  - a293d7937700
   - adb084b901cc
   - f0ede473a7e8
   - fb17e19b62a4
@@ -890,6 +894,7 @@ tools:
 - name: sklearn_numeric_clustering
   owner: bgruening
   revisions:
+  - 1bdac8249aa1
   - 1dd433d2c92c
   - 27903ce9b4be
   - 2d7c60aa6c62
@@ -960,6 +965,7 @@ tools:
   - e36ab18cbaca
   - e3b3f375b61e
   - f06ad033c114
+  - fbf485fc2d30
   tool_panel_section_label: Machine Learning
 - name: sklearn_regression_metrics
   owner: bgruening
@@ -1049,6 +1055,7 @@ tools:
   - d709e2d0d199
   - e5a5ad882f1f
   - f0d2e8a3c575
+  - f484f41ea0dd
   tool_panel_section_label: Machine Learning
 - name: sklearn_stacking_ensemble_models
   owner: bgruening
