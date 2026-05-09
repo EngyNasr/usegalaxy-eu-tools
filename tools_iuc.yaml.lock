@@ -894,6 +894,7 @@ tools:
 - name: staramr
   owner: iuc
   revisions:
+  - 146b508457e8
   - 59d308975e63
   - 6d5c8a6ceea0
   - 6edfb4b6db85
@@ -980,6 +981,7 @@ tools:
 - name: staramr
   owner: iuc
   revisions:
+  - 146b508457e8
   - 59d308975e63
   - 6d5c8a6ceea0
   - 6edfb4b6db85
@@ -1869,6 +1871,7 @@ tools:
   - 584008e574b2
   - 72ed72122deb
   - a4db66553a61
+  - b3858ab7f598
   - bd46669113b9
   - d4d4e9febf5c
   - e177a8ea0bf1
@@ -1878,25 +1881,30 @@ tools:
   owner: iuc
   revisions:
   - ab9350a8ab4d
+  - afa26d1f6809
   tool_panel_section_label: Convert Formats
 - name: biom_normalize_table
   owner: iuc
   revisions:
   - 60a9ca72b006
+  - d8c14bfe6723
   tool_panel_section_label: Convert Formats
 - name: biom_subset_table
   owner: iuc
   revisions:
   - e42574a580c0
+  - f6985730ab47
   tool_panel_section_label: Convert Formats
 - name: biom_summarize_table
   owner: iuc
   revisions:
+  - 011c5389297a
   - 3dff162d44e9
   tool_panel_section_label: Convert Formats
 - name: biom_from_uc
   owner: iuc
   revisions:
+  - 4869ced5c43b
   - 66d85966f234
   tool_panel_section_label: Convert Formats
 - name: compress_file
@@ -2481,6 +2489,7 @@ tools:
   - 350c736075eb
   - 3e2551a37201
   - 415fd81b85d3
+  - 4557b2da9e7f
   - 480ddbd12a03
   - 65b93b623c77
   - 6c2351178f8d
@@ -2686,6 +2695,7 @@ tools:
   - da336e3ead38
   - e462044ece67
   - eee1a2f6abd8
+  - f48b35baf365
   tool_panel_section_label: FASTA/FASTQ
 - name: fastqc
   owner: devteam
@@ -3443,6 +3453,7 @@ tools:
   - 198c75abbf55
   - 1a7773882d2c
   - 1e188c9610c3
+  - 2a2364765752
   - 37c98f8a2497
   - 40a5d68e929a
   - 5c7051132156
@@ -3786,6 +3797,7 @@ tools:
   - 11c344627e52
   - 2f557f6abbfb
   - 3af838dc0637
+  - 3d5b9e4df7ba
   - 59ebf2c42c0e
   - 5e08a1e22dbc
   - 6d532d760950
@@ -6488,6 +6500,7 @@ tools:
   - 708abf08a626
   - 76bc4efa1aeb
   - a040f2dc705c
+  - c63e45a190b5
   - eb50e7eca3dc
   - f375b4f6ef57
   tool_panel_section_label: Metagenomic Analysis
@@ -6496,6 +6509,7 @@ tools:
   revisions:
   - 00e3b4ef7e0c
   - 1592150e38d2
+  - 45f6d77d37b7
   - 6b51b29c0147
   - a4441f35f17b
   - d27a4ed006ee
@@ -9778,6 +9792,7 @@ tools:
   - 1c2db0054039
   - 26ee5e11ecbe
   - 31c42a2c02d3
+  - 371299578b8e
   - 3d93dd18d9f8
   - 3dd49be3f7d3
   - 5e33b465d8d5
@@ -11151,6 +11166,7 @@ tools:
   - adc4ed59d82b
   - b5c88b7b153e
   - b8beef827165
+  - c4325d32b1a2
   - fea1a167b822
   tool_panel_section_label: SAM/BAM
 - name: samtools_sort
@@ -14068,6 +14084,7 @@ tools:
   - 19ef193d1316
   - 23511530b8fd
   - 4cd97cc67061
+  - b837e6ef4e3e
   - dbf2735e8480
 - name: data_manager_gtdbtk_database_installer
   owner: iuc

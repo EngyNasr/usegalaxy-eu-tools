@@ -426,6 +426,7 @@ tools:
   owner: bgruening
   revisions:
   - 00b2ee48b412
+  - 00d1889e9ecc
   - 01131463df86
   - 0c933465d70e
   - 0fd7d8e90e2a
@@ -552,6 +553,7 @@ tools:
 - name: sklearn_clf_metrics
   owner: bgruening
   revisions:
+  - 048d7bd59326
   - 0ee984c1cbd6
   - 15bcf1a7543b
   - 25cc25ea10b8
@@ -642,6 +644,7 @@ tools:
   owner: bgruening
   revisions:
   - 0087d6db4290
+  - 00f01f713c3c
   - 060ca94ac049
   - 0b98933cf0f7
   - 1682df52c084
@@ -1120,6 +1123,7 @@ tools:
   - a4f18bbb4eca
   - caeb57858702
   - ec69cbe34b73
+  - f86c0419af43
   - f93f0cdbaf18
   tool_panel_section_label: Machine Learning
 - name: sklearn_train_test_eval
