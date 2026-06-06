@@ -22,6 +22,7 @@ tools:
   - 468fd92deaaa
   - 5aaffb8d8161
   - ca5d51152817
+  - ce54031c2235
   - e17bbe564242
   - e909d3bc4687
   tool_panel_section_label: Annotation
@@ -3141,6 +3142,7 @@ tools:
   revisions:
   - 00b3da7776a0
   - 2488bcddaf14
+  - 57467b5debe6
   - 61946b8bd43b
   - 96a3c972424f
   - bae6cba73e32
@@ -3458,6 +3460,7 @@ tools:
   revisions:
   - 03a801ded645
   - 0622d99c2619
+  - 07f675a7ac2e
   - 0f3b3813b6ae
   - 18eed8fa7f23
   - 198c75abbf55
@@ -3835,6 +3838,7 @@ tools:
   - 1baccff6ffb4
   - 1eae6fe69bbd
   - 63588847a75a
+  - 65fc9fc648f4
   - 952abbc4b1de
   - 989cec209ba2
   - b53973719d7b
@@ -4237,6 +4241,7 @@ tools:
   - 420868438a99
   - 49b82255b72f
   - 59d3fa4c16f5
+  - 7f88b2b4662d
   - 8169710bd2fb
   - 910c6a1c3a27
   - 94b552c6830a
@@ -4274,6 +4279,7 @@ tools:
   - 6d042c96aceb
   - 7f7139b8a671
   - 8ad23dfdaabb
+  - b1815cb2b298
   - b7cf65cb8019
   - b9d7410b6593
   - e24802b3bbad
@@ -4771,6 +4777,7 @@ tools:
   revisions:
   - 0e8330535ea0
   - 2595c27071c2
+  - 6fe0fdd63a67
   - 7da532cd050c
   - 8fbd98f37c10
   - 95ab864b281a

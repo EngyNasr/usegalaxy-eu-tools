@@ -1196,6 +1196,7 @@ tools:
   revisions:
   - 0bef7ea84b7f
   - 2134c3079055
+  - 6eb6d8e78d06
   - 9450286c42ab
   - 9c91d13827ef
   - bd808d1c4e0c
@@ -1275,6 +1276,7 @@ tools:
   revisions:
   - 3f33a8ac8891
   - 66058890173e
+  - 95b0a646932e
   tool_panel_section_label: Metagenomic Analysis
 - name: qiime2_dbotu_q2
   owner: bgruening
