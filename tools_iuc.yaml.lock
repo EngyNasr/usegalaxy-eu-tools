@@ -2085,6 +2085,7 @@ tools:
   - 05afdd33dac7
   - 64d732725a73
   - 7e353b95f0b6
+  - ac3a3feb4cf1
   - ac3bae00a350
   tool_panel_section_label: Convert Formats
 - name: ucsc_maftoaxt
@@ -2360,6 +2361,7 @@ tools:
   owner: iuc
   revisions:
   - 5c265c4835c0
+  - b120e39b9f58
   tool_panel_section_label: FASTA/FASTQ
 - name: bbtools_bbmerge
   owner: iuc
@@ -2699,6 +2701,7 @@ tools:
 - name: falco
   owner: iuc
   revisions:
+  - 46192706f470
   - 959a14c1f2dd
   - babbcf02d35c
   - da336e3ead38
@@ -3544,6 +3547,7 @@ tools:
   - 067592b6b312
   - 21e491ad532a
   - 58124285e462
+  - 86ec2f06de3c
   - 94fe43e75ddc
   - b2860df42e16
   - b9e31c5c01c7
@@ -3936,6 +3940,7 @@ tools:
   - 78b70d78a596
   - '889194374660'
   - 8fb584526458
+  - 90d52ca89318
   - c4ed35f4f77f
   - dbfd2cfc0f66
   - f881c94fb3b3
@@ -3963,6 +3968,7 @@ tools:
   revisions:
   - 26f73673e261
   - 2dccb6bb0add
+  - 733162fae8b0
   - 74b3932d0836
   - 782bdcb775fb
   - 794bd416f6c3
@@ -3997,6 +4003,7 @@ tools:
   owner: bgruening
   revisions:
   - 03d7978293fe
+  - 0ec8d77d1833
   - 2818b428a5c5
   - 3240e8a7c54f
   - 3dafb9693b8c
@@ -4308,6 +4315,7 @@ tools:
   owner: bgruening
   revisions:
   - 0dff8b5011c0
+  - 16a8d1688c65
   - 2371fad10021
   - 3f1b286a5c34
   - 5ae69a0a33bf
@@ -4354,6 +4362,7 @@ tools:
   - b553d14a7845
   - b63363075c2e
   - c2521cba1c32
+  - eb3a1b9a1c3c
   - f741330d4a71
   - fe13295d0329
   tool_panel_section_label: HiCExplorer
@@ -4388,6 +4397,7 @@ tools:
   - 8d203e74869b
   - a10fce08c2dc
   - b637a1e3cb14
+  - bb9e080ae77b
   - d5c24ac2da6e
   - e285920f8585
   - eec0210589b3
@@ -4420,6 +4430,7 @@ tools:
   - 5fbf0fd998ce
   - 6d1526527417
   - 759f6bb1432f
+  - 86958f9bec1b
   - c08c07412bd0
   - c4ee66c35eb6
   - d74cf4a61d65
@@ -4447,6 +4458,7 @@ tools:
   - 27fe5cd1729c
   - 3f529510975e
   - 9667ab8e2085
+  - a4b4bb07ed14
   - ae9cc6dbfaca
   - b3553a0a5dcf
   - dc25d1f9927b
@@ -4742,6 +4754,7 @@ tools:
   - 4a196b9c72c2
   - 64f11cf59c6e
   - 8d2a528a9513
+  - c598cbb8b019
   - c71dd035971e
   - e188dc7a68e6
   tool_panel_section_label: Mapping
@@ -5826,6 +5839,7 @@ tools:
   owner: iuc
   revisions:
   - 592ef3959907
+  - 5a6e1fa871a2
   - a5921c09b7b7
   - dfa1eb2941b0
   - eea0c38a9afd
@@ -8804,6 +8818,7 @@ tools:
   - 0f1c34698076
   - 2a9afed42353
   - 4c172a4a4c9e
+  - 640e4eeab4e2
   - 645159bcee2d
   - 7b379e98b9a9
   - 9eab750c367d
@@ -9681,6 +9696,7 @@ tools:
 - name: raxml
   owner: iuc
   revisions:
+  - 0811b19b117a
   - 14eb2acf30e3
   - 29ff6a849eac
   - 73a469f7dc96
@@ -10671,6 +10687,7 @@ tools:
   - 6e45b443ef1f
   - 8eb8750070d4
   - 914cfcba0ec8
+  - 92198ab2345f
   - ae618321f34a
   - cbf488da3b2c
   - cef79931dda5
@@ -12604,6 +12621,7 @@ tools:
   - 271965b55437
   - 481476814acc
   - 48291658fdf6
+  - 5226c31ac6d3
   - 5fa262ce95dd
   - 67e2bd1c4579
   - 6deb4d549bc9
