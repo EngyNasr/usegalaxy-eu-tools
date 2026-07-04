@@ -10305,6 +10305,7 @@ tools:
   - 9a882d108833
   - a416957ee305
   - a6fc9228e1a0
+  - b060944b3989
   - cd9874cb9019
   - d027d1f4984e
   - d983d19fbbab
@@ -11650,6 +11651,7 @@ tools:
   revisions:
   - 3478133d0f6f
   - 4164c0da0a5d
+  - 42a08854eb66
   - 5156383d3a5d
   - 69018f285aa3
   - 6e90c8adf84f
@@ -12077,6 +12079,7 @@ tools:
 - name: clustering_from_distmat
   owner: iuc
   revisions:
+  - 10abfe22d9c6
   - 8192b416f945
   - c0b01c55a0e0
   - f8ee933de3ca
