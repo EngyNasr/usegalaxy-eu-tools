@@ -409,6 +409,7 @@ tools:
 - name: heatmap
   owner: ethevenot
   revisions:
+  - a17fd6d6ef90
   - b1667c118127
   tool_panel_section_label: Metabolomics
 - name: univariate
@@ -1012,6 +1013,7 @@ tools:
 - name: multiqc
   owner: iuc
   revisions:
+  - 0559e0711094
   - 26ee5e11ecbe
   - 31c42a2c02d3
   - 371299578b8e
