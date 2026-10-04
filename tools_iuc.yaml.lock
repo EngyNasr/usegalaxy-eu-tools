@@ -761,6 +761,7 @@ tools:
   revisions:
   - 876d26806584
   - 9e47b28bff57
+  - a43aa384ead4
   - bd5630d401cd
   tool_panel_section_label: Annotation
 - name: omark
@@ -992,6 +993,7 @@ tools:
   - 2b21643ce8d7
   - 36093854bfc7
   - 8bc80c2a15b3
+  - d221bf907235
   - edcf603bedfd
   tool_panel_section_label: Annotation
 - name: transtermhp
@@ -2959,6 +2961,7 @@ tools:
 - name: seqkit_fx2tab
   owner: iuc
   revisions:
+  - 0d3b2a85231e
   - 13e101f5bb5d
   - 1dc73570fd5a
   - 23adecaeb039
@@ -2982,6 +2985,7 @@ tools:
   - 3c0120a0e35c
   - 6fb76225bdb1
   - 934165d1f733
+  - 943f34336731
   - dcd66e8008d7
   - f56a47e4cc93
   - fb7b676906e7
@@ -2990,6 +2994,7 @@ tools:
   owner: iuc
   revisions:
   - 0acbccd721b9
+  - 4cc0348746a6
   - 54e818ea7c4d
   - 571e6933e972
   - 5fb2dc40c4de
@@ -3012,6 +3017,7 @@ tools:
   - 1936d097808a
   - 23fa143a2e94
   - 6366952ddfd3
+  - b441f51f88b7
   - b7fe1967e668
   - c669e8550c46
   - d35d114c26a7
@@ -3020,6 +3026,7 @@ tools:
 - name: seqkit_stats
   owner: iuc
   revisions:
+  - 0a2a529e24e3
   - 191738d53912
   - 24107542edff
   - 3d6d1121a427
@@ -3042,6 +3049,7 @@ tools:
   - 14f7ceef5579
   - 29ef2c5ec205
   - 3dc878f71e4d
+  - 46281f14fcb0
   - 53b2027027c7
   - 61eb4cfc7313
   - 9ba18868a990
@@ -4898,6 +4906,7 @@ tools:
   - 69b5fa6480ff
   - 6fe0fdd63a67
   - 7da532cd050c
+  - 8638fee69580
   - 8fbd98f37c10
   - 95ab864b281a
   - 98099e4da1fd
@@ -5366,6 +5375,7 @@ tools:
   - 811df76f4f26
   - 8569e8d8b712
   - 9742e8636a10
+  - ad46c4548d8f
   - be1918c80d9f
   - c465a1ea3da2
   - dc31a6f9fb2f
@@ -5390,6 +5400,7 @@ tools:
 - name: ampvis2_rankabundance
   owner: iuc
   revisions:
+  - 0da1af3c1ffc
   - 17b44753a1df
   - 18de61c5527c
   - 28b63a7e22ca
@@ -5431,6 +5442,7 @@ tools:
   - 638503db7271
   - 7c9c6448b57c
   - 7f5dd19dc792
+  - 8447d4027c28
   - a9dacd650ad5
   - b8fd62239d7e
   - cfd7bafb820f
@@ -8742,6 +8754,7 @@ tools:
 - name: mmseqs2_easy_linclust_clustering
   owner: iuc
   revisions:
+  - 0a60a6d93d3b
   - 1bc9b91a91fd
   - b174c3405549
   - e6c5f120f010
@@ -8878,6 +8891,7 @@ tools:
   - 8b8a3f793f0f
   - 9553180705b7
   - a02aa0dfb850
+  - ad7226fac56d
   - b250b3058cbb
   - d663d090c710
   - e8ac2b53f262
@@ -14529,6 +14543,7 @@ tools:
 - name: deeptools_bam_compare
   owner: bgruening
   revisions:
+  - 09d1214b45d1
   - 10ebedbfee31
   - 29451af70c52
   - c89b665b45e4
@@ -14552,6 +14567,7 @@ tools:
   revisions:
   - 195e98217334
   - 3f9dc453c0e8
+  - 5d44209e86ad
   - 62eb6d63f582
   - 7c1beb6d6eca
   - 915b324e649f
@@ -14591,6 +14607,7 @@ tools:
 - name: deeptools_compute_matrix_operations
   owner: bgruening
   revisions:
+  - 3decd0bfc388
   - 7e6bcd2e5128
   - 7ef978dc1b8a
   - be95d48dd27f
@@ -14611,6 +14628,7 @@ tools:
 - name: deeptools_estimatereadfiltering
   owner: bgruening
   revisions:
+  - 3fac11f2adb3
   - 4da54a84303b
   - 71082dac170c
   - bd1f40ce9769
@@ -14637,6 +14655,7 @@ tools:
   - a3f625719b3f
   - d580d6acd1df
   - d9ce4897dbb2
+  - ec28c2928823
   tool_panel_section_label: deepTools
 - name: deeptools_plot_correlation
   owner: bgruening
@@ -14654,6 +14673,7 @@ tools:
   revisions:
   - 1ad8b24eca7c
   - 231994413f89
+  - 3208df1c919e
   - 56bce3c82278
   - 7fda5607e777
   - 9368fbc49c8b
@@ -14677,6 +14697,7 @@ tools:
   - 793665fff0f8
   - b88ebb3672a1
   - bed4b253dc69
+  - c0893efd5a8f
   - ca8a7f0ea872
   tool_panel_section_label: deepTools
 - name: deeptools_plot_heatmap
@@ -14698,6 +14719,7 @@ tools:
   - 69264da0ce77
   - 7784523d9743
   - 851020617ea1
+  - c59e0acb4e0b
   - c899e0ccff8c
   tool_panel_section_label: deepTools
 - name: deeptools_plot_profile
