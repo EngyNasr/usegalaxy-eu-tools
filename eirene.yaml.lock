@@ -181,6 +181,7 @@ tools:
   - 7bbdcce50541
   - 7c50666b88e8
   - 87ac0b56b9b0
+  - b0a739025b81
   - ef3cbcdf5f5d
   - f2c1d0bbb074
   tool_panel_section_label: Metabolomics
@@ -519,6 +520,7 @@ tools:
   - 6480c6d5fa36
   - 6fc9f6dbcef5
   - 821062fc5782
+  - 9c417575eb83
   - b77023c41c76
   - bf28a0fc0db6
   - bf32ae95a06f
@@ -579,6 +581,7 @@ tools:
   - 720958b09af4
   - 89b026d67e9f
   - af8839475b43
+  - d488b9391103
   - ef51824f6d04
   tool_panel_section_label: ChemicalToolBox
 - name: use_theoretical_mz_annotations

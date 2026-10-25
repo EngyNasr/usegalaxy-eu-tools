@@ -70,6 +70,7 @@ tools:
 - name: hictk
   owner: bgruening
   revisions:
+  - 0763356a72da
   - 2da980d606cb
   - 6ea4b941a15b
   - a2e75bad2872
@@ -427,6 +428,7 @@ tools:
   - 8611b3f52a38
   - 98aeca624881
   - 9b6faa256f15
+  - ad11e219bd5a
   - beeeda757eba
   - c51571d0a0b1
   - e3b420d0b71a
@@ -485,6 +487,7 @@ tools:
   - e1317b5502fa
   - e29894cdea47
   - ead8f1822587
+  - efa16475990a
   - f1b9a42d6809
   tool_panel_section_label: Machine Learning
 - name: ml_visualization_ex
@@ -530,6 +533,7 @@ tools:
   - 65820fb7257b
   - 6efb9bc6bf32
   - 83228baae3c5
+  - 8ef3ef591dc8
   - 919198d656dd
   - 948eca2af157
   - 980bf31faa05
@@ -602,6 +606,7 @@ tools:
   - ae69f6918abe
   - c8547d3993c0
   - c89a3bfb3b1d
+  - d0f0767072b2
   - daaa56720686
   - e54382561bd4
   - e56721f44020
@@ -667,6 +672,7 @@ tools:
   - 8e49f26b14d3
   - 95d0f81e46e8
   - 9bb505eafac9
+  - b0b9245d414e
   - d3e99d3df1ca
   - dea38330b78a
   - e76f6dfea5c9
@@ -725,6 +731,7 @@ tools:
   - 867caa39eaa4
   - 89deaf399ff7
   - 9fda0b82f419
+  - aa243478bb94
   - ad297a5397a0
   - adaf2457d6ec
   - bd27a211182a
@@ -780,6 +787,7 @@ tools:
   - 4f243b0169db
   - 61fb99c55558
   - 69f627250dea
+  - 6ff5b1978b0c
   - 9a3cb21a3661
   - a9d72bfe33c9
   - bfc44324a773
@@ -838,6 +846,7 @@ tools:
   - 6c1c7a89d333
   - 9b067af194b7
   - ac52a5916963
+  - d6fccdb87bf3
   - e8d6b4acb7c6
   - f1a9ab7a1d88
   tool_panel_section_label: Machine Learning
@@ -1439,6 +1448,7 @@ tools:
 - name: fastq_info
   owner: bgruening
   revisions:
+  - 2bca15e630a4
   - 7a821cd57b43
   tool_panel_section_label: Quality Control
 - name: 10x_bamtofastq
