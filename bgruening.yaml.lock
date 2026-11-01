@@ -16,6 +16,7 @@ tools:
   owner: bgruening
   revisions:
   - 3d71ab1562d7
+  - 7a299251aeb7
   - 891b330ffd94
   tool_panel_section_label: Convert Formats
 - name: graphicsmagick_image_convert
@@ -120,6 +121,7 @@ tools:
   revisions:
   - 6d8444408ff1
   - 6d8be3337e2a
+  - 80b0055ba314
   - a6318f87f2cd
   - abba05ead5d7
   - d6ede73082da
@@ -183,6 +185,7 @@ tools:
   - 291923e6f276
   - 3e4f8642c77e
   - 3ee0ef312022
+  - 53d3fd8fca8d
   - 643e0ff70be5
   - 8d4f03b5fe9d
   - cb8dfd28c16f
@@ -291,6 +294,7 @@ tools:
 - name: trim_galore
   owner: bgruening
   revisions:
+  - 433db23e1c1d
   - b94789823aad
   - cd7e644cae1d
   - eefb644655a5
@@ -888,6 +892,7 @@ tools:
   - 8f469d961e30
   - 9084156b2bb5
   - a293d7937700
+  - aaf492da76d4
   - adb084b901cc
   - cde5fc214cc8
   - f0ede473a7e8
@@ -941,6 +946,7 @@ tools:
   - 39ae3c043096
   - 4cc980df6265
   - 4db563e8d453
+  - 531513ce17a5
   - 55c7d3e58eae
   - 672327583f74
   - 699024d5c451
@@ -1030,6 +1036,7 @@ tools:
   owner: bgruening
   revisions:
   - 03e0da430d44
+  - 1728b4a3895e
   - 24c1cc2dd4a4
   - 2d7016b3ae92
   - 3af626081467
@@ -1075,6 +1082,7 @@ tools:
   - c78a5fc9e758
   - dc17e2878dc1
   - f04a2405f3fe
+  - f55053c4a5ec
   - f5dcb87fd14e
   tool_panel_section_label: Machine Learning
 - name: sklearn_sample_generator
@@ -1131,6 +1139,7 @@ tools:
   - 69c44aab684e
   - 7626ea9c2e1b
   - 82b6104d4682
+  - 8eb081549c98
   - 907bb0418c9f
   - 9a01835cdead
   - a36a45cb96fa
@@ -1182,6 +1191,7 @@ tools:
   - 73d2ef652879
   - 7d7379dfef8b
   - 80852884053f
+  - 8797bedbba8e
   - 9295c5f34630
   - a5665e1b06b0
   - b7c3e9a3b954
@@ -1226,6 +1236,7 @@ tools:
   - 443471b0a27a
   - 4d1637cac794
   - 68aaa903052a
+  - 724f4328af54
   - 77125cbb54ac
   - 8b822484debc
   - a0b0f3158c8c
@@ -1289,6 +1300,7 @@ tools:
 - name: flexynesis
   owner: bgruening
   revisions:
+  - 09749ea1dabd
   - 0bef7ea84b7f
   - 2134c3079055
   - 6eb6d8e78d06
@@ -1565,6 +1577,7 @@ tools:
   - 02dfbbf869d8
   - 10ef1bf99074
   - 156d0908e232
+  - 2dfd91f7b71d
   - 95a9dc82fc9a
   - be2d899bf34a
   tool_panel_section_label: Text Manipulation
